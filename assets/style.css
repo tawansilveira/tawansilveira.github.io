@@ -1,0 +1,101 @@
+body{
+    background-color: #333334;
+    margin: 0;
+    padding: 0%;
+}
+
+.Tudo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Linha{
+    display:flexbox;
+}
+
+#Cabecalho{
+    background-color: #142c5c;
+    min-height: 70px;
+    min-width: 1820px;
+    padding: 30px 50px 10px 50px;  
+    position: fixed;
+    width: 100%;
+    top: 0;
+    box-shadow: 0px 0px 15px 0px #242424;
+}
+
+#TituloCabecalho{
+    color: white;
+    font-size: 16px;
+    margin-top: -10px;   
+}
+
+.Menu{
+    position: absolute;
+    text-align: center;
+    list-style: none;
+}
+
+a{
+    color: rgb(167, 167, 167);
+    text-align: center;
+    width: 45%;
+    height: 45%;
+    padding: 5px 5px 5px 5px;
+    font-size: 30px;
+}
+
+a:hover{
+    background-color: #000000;
+    opacity: 100%;
+} 
+
+a:hover:before {
+    background-color: rgb(0, 0, 0);
+    opacity: 150%;
+    visibility: visible;
+} 
+
+.box{	
+    background-color: #333334;
+	width: 40%;			
+	margin: 0 auto; 
+	text-align: left;
+    height: 50px;
+    box-shadow: 0px 0px 2px 0px #242424;
+    padding: 15px 20px 5px 20px;
+    margin-top: 110px; 
+
+}
+
+.box1{
+    color: rgb(167, 167, 167);
+    float: left;
+    font-size: 12px;
+}
+
+.box2{
+    color: #4484f4;
+    float: left;
+    font-size: 16px;
+}
+
+.Projetos{	
+    background-color: #242424;
+	width: 40%;			
+	margin: 0 auto; 
+    box-shadow: 0px 0px 5px 0px #333334;
+    padding: 25px 20px 70px 20px;
+}
+
+a, a:link, a:hover, a:visited{
+    text-decoration: none;
+    color: rgb(167, 167, 167);
+}
+
+.a1{
+    float: right;
+}
+
+.a2{
+    float: left;
+}
