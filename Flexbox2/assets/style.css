@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace
+}
+
+header{
+    background: rgb(241, 241, 241);
+    border-top: 1px darkgray solid;
+    border-bottom: 1px darkgray solid;
+    overflow: hidden;
+    height: 100% !important;
+}
+
+header a{
+    color: rgb(77, 77, 77);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    height: 100%;
+    padding: 25px;
+}
+
+
+.start{
+    display: flex;
+    font-size: 100%;
+}
+.end{
+    display: flex;
+    font-size: 80%;
+}
+
+
+header a:hover{
+    background-color: lightgrey;
+    color: rgb(77, 77, 77);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    background-color: #0c9b85;
+    text-align: center;
+    padding: 15px;
+}
+
+.a1{
+    filter: invert(90%);
+}
+
+p{
+    font-size: 120%;
+    color: rgb(241, 241, 241)
+}
+
+section{
+    background-color: #383d47;
+    padding: 5% 3%;
+    text-align: center;
+}
+
+.p1{
+    font-size: 80%;
+}
+
+.lupa{
+    border: white solid;
+    border-radius: 10%;
+    background-color:rgb(241, 241, 241);
+    width: 1.5%;
+    padding: 0.5%;
+}
+
+nav{
+    background-color: rgb(241, 241, 241);
+    padding: 5% 3%;
+    text-align: center;
+}
+
+nav p{
+    color: #383d47;
+}
+
+nav .p1{
+    font-size: 100%;
+    color: #383d47;
+    text-decoration: none;
+}
+
+.trabalhos{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 200px;
+}
+
+.imagens{
+    display: flex;
+    justify-content:space-between;
+    padding: 0 95px;
+}
+
+footer{
+    background-color: #2c2e31;
+    padding: 4%;
+    text-align: center;
+    font-size: 80%;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(11, 92, 243);
+}
