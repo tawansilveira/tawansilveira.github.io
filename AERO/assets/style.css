@@ -1,0 +1,63 @@
+.main{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-masthead.jpg);
+    height: 100vh;   
+}
+
+.titulo{
+    font-size: 80px;
+}
+
+.about{
+    padding-top:  20vh;
+    padding-bottom: 21vh;
+}
+
+
+.botoes a:hover{
+    background-color: gray;
+    opacity: 100%;
+    color: black;
+} 
+
+.botoes a{
+    color: white;
+}
+
+.pacotes{
+    padding-top:  10vh;
+    padding-bottom: 10vh;
+}
+
+.card{
+    display: flex
+}
+
+.atividades{
+    padding-top:  6vh;
+    padding-bottom: 5vh;
+}
+
+.carrossel img{
+    height: 70vh;
+}
+
+.carrossel2 img{
+    height: 70vh;
+}
+
+.eventos{
+    padding-top:  8vh;
+    padding-bottom: 8vh;
+}
+
+.destinos{
+    padding-top:  6vh;
+    padding-bottom: 20vh;
+}
+
+.footer{
+    padding-top:  5vh;
+    padding-bottom: 5vh;
+    background-color: black;
+}
+
