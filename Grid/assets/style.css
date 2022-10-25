@@ -1,0 +1,77 @@
+.inicio{
+    background-image: url(https://i0.wp.com/gamingph.com/wp-content/uploads/2020/09/stranger-things-netflix.jpg?fit=1920%2C1080&ssl=1);
+    height: 90vh;
+    width: 100%;
+}
+
+.header{
+    background-color: black;
+}
+
+#lateral .box {
+    list-style-type:none;
+    }
+
+#lateral li a,  #menu li a:link {
+    color:rgb(255,255,255);
+    text-decoration: none;
+    display: block;
+    margin-top: 100%;
+    }
+
+#lateral {
+    background:black;
+    height:100%;
+    width:100px; 
+    position:fixed;
+    margin-left: -15px;
+    padding-top: 7%;
+    }
+
+.sinopse{
+    color: white;
+    padding-left: 7%;
+    padding-right: 15%;
+    font-size: 120%;
+    text-align: justify;
+}
+
+.botao{
+    padding-left: 27%;
+}
+
+.colecao{
+    background-color: black;
+}
+
+.a1 img{
+    max-width:30vw;
+    max-height:30vh;
+    width: auto;
+    height: auto;
+    padding: 40px
+}
+
+.a1 img:hover{
+    opacity: 50%;
+}
+
+.trending{
+    color: white;
+    padding-left: 11%;
+}
+
+.icones{
+    text-decoration: none;
+    color: gray;
+    padding: 2%;
+}
+
+.final{
+    background-color: black;
+}
+
+.a3{
+    font-size: smaller;
+}
+
