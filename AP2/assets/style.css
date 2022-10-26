@@ -1,0 +1,62 @@
+.cabecalho{
+    background-image: linear-gradient(to right, #fb7c54, #df4b1e);
+    position: fixed;
+}
+
+.menu4{
+    border-left: grey 1px solid;
+}
+
+.menu2{
+    border-bottom: grey 1px solid;
+}
+
+.rodape{
+    background-image: linear-gradient(to right, #fb7c54, #df4b1e);
+}
+
+
+
+.img{
+    background-image: url(https://www.rbsdirect.com.br/imagesrc/35761619.jpg?w=575&h=385&a=c);
+}
+
+.logo{
+    max-width: 30%;
+    max-height: 10%;
+}
+
+.logo2{
+    max-width: 60%;
+    max-height: 60%;
+}
+.ff a{
+    color: white;
+}
+
+.ff a:hover{
+    color: lightgray;
+}
+
+h6{
+    color: #fb7c54;
+}
+h2, h5{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+.foto{
+    border-radius: 50%  ;
+}
+
+.menu3{
+    background-image: linear-gradient(to right, #fb7c54, #df4b1e)
+}
+
+h1{
+    color: white;
+}
