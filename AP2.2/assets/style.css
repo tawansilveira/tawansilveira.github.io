@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+
+.menu {
+    background-color: cadetblue;
+}
+
+.banner {
+    background-image: url(https://icrselect.com.br/images/banners/preco.jpg);
+    background-size: cover;
+}
+
+.principal h2 {
+    font-size: 28px;
+}
+
+.principal p {
+    margin-top: 29px;
+    text-align: justify;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.rodape{
+    background-color: cadetblue;
+}

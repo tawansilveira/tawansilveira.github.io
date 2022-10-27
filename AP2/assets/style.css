@@ -45,6 +45,7 @@ h2, h5{
     color: black;
 }
 
+
 a{
     text-decoration: none;
 }
@@ -53,10 +54,22 @@ a{
     border-radius: 50%  ;
 }
 
-.menu3{
-    background-image: linear-gradient(to right, #fb7c54, #df4b1e)
+.menu2 img{
+    object-fit: scale-down;
 }
 
 h1{
-    color: white;
+    color: #fb7c54;
+}
+
+.font{
+    font-size: 30px;
+}
+
+.font-smartphone{
+    font-size: 50%;
+}
+
+.font-smartphone2{
+    font-size: 50%;
 }
